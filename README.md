@@ -33,8 +33,8 @@
 
 ## Página Inicial:
   
-![Tela01](./Telas/tela01.jpeg)
+![Tela01](./Telas/Tela01.jpeg)
 
 ## Página onde irá cadastrar os produtos:
   
-![Tela01](./Telas/tela02.jpeg)
+![Tela01](./Telas/Tela02.jpeg)
