@@ -69,7 +69,6 @@ form button{
     border-radius: 20px ;
     height: 40px;
     width: 150px;
-    margin-top: 45px;
     margin-left: 20px;
     background-color: #f38e0086;
 }
@@ -138,8 +137,29 @@ table th {
     text-align: end;
     flex-direction: column;
     width: 100%;
-    font-size: 18px;
+    font-size: 30px;
     border-radius: 5px;
+    display: flex;
+    color: #f3ad4b;
+}
+
+.bun{
+    margin-right: 1400px;
+    display: block;
+    font-size: 20px;
+    color: #f38f00;
+    margin-top: 20px;
+}
+
+.inp{
+    margin-right: 1100px;
+    margin-top: 20px;
+}
+
+.inp input{
+    width: 500px;
+    height: 50px;
+    border-radius: 20px ;
 }
 
 footer{
